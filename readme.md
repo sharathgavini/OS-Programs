@@ -1,4 +1,4 @@
-List of programs attached
+List of programs attached:
 
 Banker's Algorithm,
 First Come First Serve Algorithm,
